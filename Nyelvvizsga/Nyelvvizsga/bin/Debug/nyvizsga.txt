@@ -1,0 +1,368 @@
+3377;25;nem felelt meg;67;megfelelt
+3429;66;megfelelt;55;nem felelt meg
+3418;56;nem felelt meg;55;nem felelt meg
+3110;68;megfelelt;81;kiválóan megfelelt
+3259;63;megfelelt;75;megfelelt
+3104;87;kiválóan megfelelt;73;megfelelt
+3405;49;nem felelt meg;33;nem felelt meg
+3384;66;megfelelt;60;megfelelt
+3369;60;megfelelt;71;megfelelt
+3247;50;nem felelt meg;41;nem felelt meg
+3435;67;megfelelt;58;nem felelt meg
+3100;44;nem felelt meg;43;nem felelt meg
+3403;61;megfelelt;41;nem felelt meg
+3422;65;megfelelt;65;megfelelt
+3331;52;nem felelt meg;60;megfelelt
+3383;52;nem felelt meg;41;nem felelt meg
+3189;45;nem felelt meg;62;megfelelt
+3246;60;megfelelt;65;megfelelt
+3452;43;nem felelt meg;53;nem felelt meg
+3235;63;megfelelt;49;nem felelt meg
+3264;53;nem felelt meg;56;nem felelt meg
+3447;26;nem felelt meg;43;nem felelt meg
+3387;57;nem felelt meg;60;megfelelt
+3434;46;nem felelt meg;62;megfelelt
+3385;43;nem felelt meg;61;megfelelt
+3262;32;nem felelt meg;38;nem felelt meg
+3094;58;nem felelt meg;72;megfelelt
+3421;56;nem felelt meg;56;nem felelt meg
+3325;70;megfelelt;61;megfelelt
+3420;49;nem felelt meg;53;nem felelt meg
+3408;41;nem felelt meg;47;nem felelt meg
+3341;43;nem felelt meg;46;nem felelt meg
+3436;47;nem felelt meg;42;nem felelt meg
+3179;25;nem felelt meg;53;nem felelt meg
+3096;53;nem felelt meg;53;nem felelt meg
+3106;83;kiválóan megfelelt;63;megfelelt
+3171;60;megfelelt;53;nem felelt meg
+3230;51;nem felelt meg;62;megfelelt
+3101;63;megfelelt;56;nem felelt meg
+3343;74;megfelelt;90;kiválóan megfelelt
+3248;63;megfelelt;67;megfelelt
+3240;23;nem felelt meg;27;nem felelt meg
+2370;60;megfelelt;49;nem felelt meg
+3339;78;megfelelt;73;megfelelt
+3413;53;nem felelt meg;37;nem felelt meg
+3062;60;megfelelt;48;nem felelt meg
+3448;57;nem felelt meg;27;nem felelt meg
+3370;64;megfelelt;61;megfelelt
+3253;74;megfelelt;74;megfelelt
+3417;63;megfelelt;38;nem felelt meg
+3251;28;nem felelt meg;30;nem felelt meg
+3329;72;megfelelt;43;nem felelt meg
+3254;65;megfelelt;71;megfelelt
+3256;44;nem felelt meg;53;nem felelt meg
+3115;49;nem felelt meg;62;megfelelt
+3249;60;megfelelt;73;megfelelt
+3415;44;nem felelt meg;39;nem felelt meg
+3362;46;nem felelt meg;52;nem felelt meg
+3183;56;nem felelt meg;38;nem felelt meg
+3402;62;megfelelt;34;nem felelt meg
+3428;68;megfelelt;60;megfelelt
+3328;85;kiválóan megfelelt;81;kiválóan megfelelt
+3340;90;kiválóan megfelelt;78;megfelelt
+3366;33;nem felelt meg;23;nem felelt meg
+3347;60;megfelelt;62;megfelelt
+3395;25;nem felelt meg;60;megfelelt
+3378;49;nem felelt meg;47;nem felelt meg
+3303;85;kiválóan megfelelt;67;megfelelt
+3180;74;megfelelt;55;nem felelt meg
+3320;87;kiválóan megfelelt;86;kiválóan megfelelt
+3355;69;megfelelt;63;megfelelt
+3407;92;kiválóan megfelelt;82;kiválóan megfelelt
+3423;35;nem felelt meg;23;nem felelt meg
+3316;64;megfelelt;53;nem felelt meg
+3391;71;megfelelt;60;megfelelt
+3411;80;kiválóan megfelelt;81;kiválóan megfelelt
+3372;58;nem felelt meg;65;megfelelt
+3346;98;kiválóan megfelelt;83;kiválóan megfelelt
+3321;42;nem felelt meg;53;nem felelt meg
+3234;79;megfelelt;80;kiválóan megfelelt
+3241;29;nem felelt meg;33;nem felelt meg
+3356;25;nem felelt meg;51;nem felelt meg
+3394;46;nem felelt meg;74;megfelelt
+3361;23;nem felelt meg;13;nem felelt meg
+1631;35;nem felelt meg;46;nem felelt meg
+3258;48;nem felelt meg;61;megfelelt
+3093;61;megfelelt;45;nem felelt meg
+3097;55;nem felelt meg;47;nem felelt meg
+3386;54;nem felelt meg;46;nem felelt meg
+3336;72;megfelelt;73;megfelelt
+3416;60;megfelelt;51;nem felelt meg
+3388;33;nem felelt meg;60;megfelelt
+3333;56;nem felelt meg;60;megfelelt
+3358;55;nem felelt meg;53;nem felelt meg
+3098;73;megfelelt;46;nem felelt meg
+3376;56;nem felelt meg;71;megfelelt
+3443;37;nem felelt meg;61;megfelelt
+3194;77;megfelelt;53;nem felelt meg
+3252;42;nem felelt meg;43;nem felelt meg
+3168;55;nem felelt meg;33;nem felelt meg
+3389;60;megfelelt;67;megfelelt
+3260;61;megfelelt;60;megfelelt
+3427;71;megfelelt;43;nem felelt meg
+3324;86;kiválóan megfelelt;79;megfelelt
+3433;52;nem felelt meg;64;megfelelt
+3309;70;megfelelt;74;megfelelt
+3112;13;nem felelt meg;20;nem felelt meg
+3364;54;nem felelt meg;37;nem felelt meg
+3107;43;nem felelt meg;46;nem felelt meg
+3237;70;megfelelt;61;megfelelt
+3099;63;megfelelt;36;nem felelt meg
+3350;78;megfelelt;56;nem felelt meg
+3188;89;kiválóan megfelelt;89;kiválóan megfelelt
+3243;76;megfelelt;60;megfelelt
+2654;83;kiválóan megfelelt;77;megfelelt
+3182;60;megfelelt;61;megfelelt
+3166;58;nem felelt meg;46;nem felelt meg
+3351;73;megfelelt;58;nem felelt meg
+3231;90;kiválóan megfelelt;68;megfelelt
+3401;69;megfelelt;65;megfelelt
+3438;70;megfelelt;48;nem felelt meg
+3442;53;nem felelt meg;33;nem felelt meg
+3451;56;nem felelt meg;61;megfelelt
+3108;63;megfelelt;53;nem felelt meg
+3117;53;nem felelt meg;55;nem felelt meg
+3167;72;megfelelt;66;megfelelt
+3344;49;nem felelt meg;37;nem felelt meg
+3165;63;megfelelt;76;megfelelt
+3424;60;megfelelt;55;nem felelt meg
+3176;47;nem felelt meg;32;nem felelt meg
+3335;62;megfelelt;41;nem felelt meg
+3305;64;megfelelt;50;nem felelt meg
+3304;46;nem felelt meg;17;nem felelt meg
+3233;83;kiválóan megfelelt;70;megfelelt
+3323;80;kiválóan megfelelt;61;megfelelt
+3368;72;megfelelt;54;nem felelt meg
+3397;63;megfelelt;60;megfelelt
+3404;73;megfelelt;61;megfelelt
+3360;63;megfelelt;41;nem felelt meg
+3173;33;nem felelt meg;39;nem felelt meg
+3409;92;kiválóan megfelelt;56;nem felelt meg
+3396;69;megfelelt;65;megfelelt
+3310;95;kiválóan megfelelt;83;kiválóan megfelelt
+3359;68;megfelelt;42;nem felelt meg
+3373;67;megfelelt;67;megfelelt
+3308;63;megfelelt;29;nem felelt meg
+3177;38;nem felelt meg;53;nem felelt meg
+3430;20;nem felelt meg;21;nem felelt meg
+3439;47;nem felelt meg;55;nem felelt meg
+3450;52;nem felelt meg;66;megfelelt
+3257;46;nem felelt meg;28;nem felelt meg
+3345;50;nem felelt meg;22;nem felelt meg
+3352;49;nem felelt meg;39;nem felelt meg
+3185;25;nem felelt meg;35;nem felelt meg
+3365;68;megfelelt;60;megfelelt
+3191;78;megfelelt;75;megfelelt
+3172;74;megfelelt;65;megfelelt
+3431;69;megfelelt;49;nem felelt meg
+3238;63;megfelelt;68;megfelelt
+3245;58;nem felelt meg;50;nem felelt meg
+3354;63;megfelelt;60;megfelelt
+3174;38;nem felelt meg;43;nem felelt meg
+3195;49;nem felelt meg;54;nem felelt meg
+3348;83;kiválóan megfelelt;84;kiválóan megfelelt
+3232;65;megfelelt;56;nem felelt meg
+3181;53;nem felelt meg;62;megfelelt
+3371;89;kiválóan megfelelt;63;megfelelt
+2806;46;nem felelt meg;43;nem felelt meg
+3338;62;megfelelt;68;megfelelt
+3322;84;kiválóan megfelelt;67;megfelelt
+3192;78;megfelelt;78;megfelelt
+3184;73;megfelelt;70;megfelelt
+3432;47;nem felelt meg;60;megfelelt
+3242;77;megfelelt;84;kiválóan megfelelt
+3367;54;nem felelt meg;38;nem felelt meg
+3337;63;megfelelt;29;nem felelt meg
+3187;73;megfelelt;52;nem felelt meg
+3440;23;nem felelt meg;16;nem felelt meg
+3392;52;nem felelt meg;35;nem felelt meg
+3390;60;megfelelt;73;megfelelt
+3114;18;nem felelt meg;44;nem felelt meg
+3382;33;nem felelt meg;53;nem felelt meg
+3236;51;nem felelt meg;23;nem felelt meg
+3445;52;nem felelt meg;63;megfelelt
+3334;83;kiválóan megfelelt;73;megfelelt
+3449;26;nem felelt meg;22;nem felelt meg
+3363;58;nem felelt meg;65;megfelelt
+3349;78;megfelelt;63;megfelelt
+3312;48;nem felelt meg;49;nem felelt meg
+3263;49;nem felelt meg;37;nem felelt meg
+3444;57;nem felelt meg;38;nem felelt meg
+3317;80;kiválóan megfelelt;73;megfelelt
+3095;33;nem felelt meg;62;megfelelt
+3410;27;nem felelt meg;19;nem felelt meg
+3255;78;megfelelt;90;kiválóan megfelelt
+3332;71;megfelelt;61;megfelelt
+3190;81;kiválóan megfelelt;65;megfelelt
+3446;68;megfelelt;51;nem felelt meg
+3314;90;kiválóan megfelelt;72;megfelelt
+3261;70;megfelelt;61;megfelelt
+3313;40;nem felelt meg;43;nem felelt meg
+3239;48;nem felelt meg;33;nem felelt meg
+3437;60;megfelelt;46;nem felelt meg
+3453;51;nem felelt meg;46;nem felelt meg
+3186;60;megfelelt;60;megfelelt
+3399;64;megfelelt;51;nem felelt meg
+3244;54;nem felelt meg;47;nem felelt meg
+3454;43;nem felelt meg;39;nem felelt meg
+2459;84;kiválóan megfelelt;67;megfelelt
+1986;43;nem felelt meg;56;nem felelt meg
+2544;74;megfelelt;64;megfelelt
+2073;72;megfelelt;61;megfelelt
+1962;52;nem felelt meg;38;nem felelt meg
+2475;30;nem felelt meg;34;nem felelt meg
+2080;47;nem felelt meg;33;nem felelt meg
+2441;50;nem felelt meg;61;megfelelt
+2555;68;megfelelt;67;megfelelt
+2600;63;megfelelt;51;nem felelt meg
+2072;53;nem felelt meg;64;megfelelt
+1346;53;nem felelt meg;56;nem felelt meg
+1924;60;megfelelt;63;megfelelt
+2414;38;nem felelt meg;32;nem felelt meg
+1999;48;nem felelt meg;56;nem felelt meg
+2873;43;nem felelt meg;61;megfelelt
+2575;54;nem felelt meg;69;megfelelt
+1941;66;megfelelt;55;nem felelt meg
+1977;68;megfelelt;62;megfelelt
+2000;56;nem felelt meg;20;nem felelt meg
+3469;63;megfelelt;56;nem felelt meg
+1930;55;nem felelt meg;48;nem felelt meg
+2249;88;kiválóan megfelelt;61;megfelelt
+2306;63;megfelelt;50;nem felelt meg
+2161;37;nem felelt meg;43;nem felelt meg
+2505;44;nem felelt meg;67;megfelelt
+2343;33;nem felelt meg;43;nem felelt meg
+1958;49;nem felelt meg;46;nem felelt meg
+525;63;megfelelt;63;megfelelt
+1040;75;megfelelt;68;megfelelt
+561;48;nem felelt meg;50;nem felelt meg
+1064;82;kiválóan megfelelt;61;megfelelt
+890;57;nem felelt meg;47;nem felelt meg
+990;37;nem felelt meg;33;nem felelt meg
+916;60;megfelelt;41;nem felelt meg
+1023;71;megfelelt;69;megfelelt
+922;66;megfelelt;71;megfelelt
+366;61;megfelelt;46;nem felelt meg
+500;60;megfelelt;36;nem felelt meg
+1021;76;megfelelt;70;megfelelt
+130;55;nem felelt meg;64;megfelelt
+272;56;nem felelt meg;55;nem felelt meg
+2290;85;kiválóan megfelelt;57;nem felelt meg
+2606;60;megfelelt;63;megfelelt
+150;78;megfelelt;61;megfelelt
+334;83;kiválóan megfelelt;68;megfelelt
+2356;71;megfelelt;70;megfelelt
+318;66;megfelelt;65;megfelelt
+2839;60;megfelelt;38;nem felelt meg
+542;52;nem felelt meg;49;nem felelt meg
+925;42;nem felelt meg;33;nem felelt meg
+506;46;nem felelt meg;80;kiválóan megfelelt
+2543;56;nem felelt meg;65;megfelelt
+102;65;megfelelt;47;nem felelt meg
+977;60;megfelelt;35;nem felelt meg
+1284;48;nem felelt meg;43;nem felelt meg
+3090;56;nem felelt meg;49;nem felelt meg
+2879;63;megfelelt;60;megfelelt
+1322;45;nem felelt meg;38;nem felelt meg
+2452;90;kiválóan megfelelt;89;kiválóan megfelelt
+1973;79;megfelelt;81;kiválóan megfelelt
+1285;34;nem felelt meg;44;nem felelt meg
+1968;45;nem felelt meg;43;nem felelt meg
+2542;51;nem felelt meg;28;nem felelt meg
+1059;71;megfelelt;48;nem felelt meg
+112;53;nem felelt meg;32;nem felelt meg
+1933;48;nem felelt meg;63;megfelelt
+314;67;megfelelt;63;megfelelt
+823;33;nem felelt meg;40;nem felelt meg
+1959;60;megfelelt;53;nem felelt meg
+553;44;nem felelt meg;45;nem felelt meg
+917;66;megfelelt;52;nem felelt meg
+269;48;nem felelt meg;56;nem felelt meg
+2082;62;megfelelt;60;megfelelt
+2078;71;megfelelt;61;megfelelt
+251;46;nem felelt meg;52;nem felelt meg
+3091;49;nem felelt meg;53;nem felelt meg
+259;56;nem felelt meg;54;nem felelt meg
+165;68;megfelelt;65;megfelelt
+164;62;megfelelt;61;megfelelt
+2586;46;nem felelt meg;46;nem felelt meg
+2580;62;megfelelt;64;megfelelt
+1027;43;nem felelt meg;38;nem felelt meg
+2485;60;megfelelt;40;nem felelt meg
+2201;33;nem felelt meg;39;nem felelt meg
+2104;41;nem felelt meg;47;nem felelt meg
+1300;55;nem felelt meg;56;nem felelt meg
+2169;54;nem felelt meg;64;megfelelt
+894;55;nem felelt meg;40;nem felelt meg
+918;33;nem felelt meg;26;nem felelt meg
+2198;44;nem felelt meg;44;nem felelt meg
+2458;47;nem felelt meg;52;nem felelt meg
+2566;15;nem felelt meg;43;nem felelt meg
+105;29;nem felelt meg;36;nem felelt meg
+2488;49;nem felelt meg;52;nem felelt meg
+1035;70;megfelelt;81;kiválóan megfelelt
+899;72;megfelelt;40;nem felelt meg
+3462;23;nem felelt meg;15;nem felelt meg
+2127;45;nem felelt meg;33;nem felelt meg
+1954;43;nem felelt meg;16;nem felelt meg
+2272;46;nem felelt meg;34;nem felelt meg
+2593;41;nem felelt meg;64;megfelelt
+1975;72;megfelelt;82;kiválóan megfelelt
+1982;71;megfelelt;52;nem felelt meg
+254;65;megfelelt;77;megfelelt
+2274;74;megfelelt;67;megfelelt
+2882;15;nem felelt meg;9;nem felelt meg
+2411;60;megfelelt;72;megfelelt
+96;53;nem felelt meg;36;nem felelt meg
+2190;78;megfelelt;65;megfelelt
+874;55;nem felelt meg;47;nem felelt meg
+2150;48;nem felelt meg;54;nem felelt meg
+2536;71;megfelelt;60;megfelelt
+2289;56;nem felelt meg;38;nem felelt meg
+2177;61;megfelelt;43;nem felelt meg
+2489;45;nem felelt meg;22;nem felelt meg
+2048;60;megfelelt;55;nem felelt meg
+2737;78;megfelelt;68;megfelelt
+2097;53;nem felelt meg;74;megfelelt
+2147;73;megfelelt;71;megfelelt
+2103;65;megfelelt;62;megfelelt
+1944;50;nem felelt meg;53;nem felelt meg
+1952;60;megfelelt;32;nem felelt meg
+2467;70;megfelelt;56;nem felelt meg
+2060;90;kiválóan megfelelt;84;kiválóan megfelelt
+2510;48;nem felelt meg;66;megfelelt
+1938;64;megfelelt;70;megfelelt
+1926;53;nem felelt meg;68;megfelelt
+2504;53;nem felelt meg;54;nem felelt meg
+2451;79;megfelelt;63;megfelelt
+2469;61;megfelelt;39;nem felelt meg
+1967;54;nem felelt meg;68;megfelelt
+3398;55;nem felelt meg;50;nem felelt meg
+104;69;megfelelt;68;megfelelt
+2123;43;nem felelt meg;56;nem felelt meg
+3087;52;nem felelt meg;79;megfelelt
+2084;61;megfelelt;52;nem felelt meg
+2100;41;nem felelt meg;48;nem felelt meg
+1992;60;megfelelt;53;nem felelt meg
+982;54;nem felelt meg;55;nem felelt meg
+2209;43;nem felelt meg;54;nem felelt meg
+2263;23;nem felelt meg;48;nem felelt meg
+2357;67;megfelelt;44;nem felelt meg
+1054;45;nem felelt meg;34;nem felelt meg
+2438;19;nem felelt meg;11;nem felelt meg
+1947;42;nem felelt meg;60;megfelelt
+1296;66;megfelelt;45;nem felelt meg
+1312;81;kiválóan megfelelt;69;megfelelt
+106;53;nem felelt meg;62;megfelelt
+260;60;megfelelt;51;nem felelt meg
+926;51;nem felelt meg;46;nem felelt meg
+166;46;nem felelt meg;48;nem felelt meg
+1342;50;nem felelt meg;56;nem felelt meg
+148;56;nem felelt meg;53;nem felelt meg
+961;52;nem felelt meg;49;nem felelt meg
+912;46;nem felelt meg;28;nem felelt meg
+108;46;nem felelt meg;28;nem felelt meg
+837;66;megfelelt;71;megfelelt
+1939;62;megfelelt;66;megfelelt
+2089;41;nem felelt meg;49;nem felelt meg

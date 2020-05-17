@@ -1,0 +1,14 @@
+C:\Users\Soma\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\Nyelvvizsga.exe.config
+C:\Users\Soma\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\Nyelvvizsga.exe
+C:\Users\Soma\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\Nyelvvizsga.pdb
+C:\Users\Soma\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.csprojResolveAssemblyReference.cache
+C:\Users\Soma\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.csproj.CoreCompileInputs.cache
+C:\Users\Soma\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.exe
+C:\Users\Soma\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.pdb
+C:\Users\Soma\Documents\C#2\Nyelvvizsga\Nyelvvizsga\bin\Debug\Nyelvvizsga.exe.config
+C:\Users\Soma\Documents\C#2\Nyelvvizsga\Nyelvvizsga\bin\Debug\Nyelvvizsga.exe
+C:\Users\Soma\Documents\C#2\Nyelvvizsga\Nyelvvizsga\bin\Debug\Nyelvvizsga.pdb
+C:\Users\Soma\Documents\C#2\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.exe
+C:\Users\Soma\Documents\C#2\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.pdb
